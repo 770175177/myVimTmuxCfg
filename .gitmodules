@@ -46,3 +46,51 @@
 [submodule ".vim/plugged/vim-startify"]
 	path = .vim/plugged/vim-startify
 	url = https://github.com/mhinz/vim-startify.git
+[submodule "plugged/LeaderF"]
+	path = plugged/LeaderF
+	url = https://github.com/Yggdroot/LeaderF.git
+[submodule "plugged/YouCompleteMe"]
+	path = plugged/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "plugged/auto-pairs"]
+	path = plugged/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "plugged/coc.nvim"]
+	path = plugged/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "plugged/fzf"]
+	path = plugged/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "plugged/fzf.vim"]
+	path = plugged/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "plugged/lightline.vim"]
+	path = plugged/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "plugged/markdown-preview.nvim"]
+	path = plugged/markdown-preview.nvim
+	url = https://github.com/iamcco/markdown-preview.nvim.git
+[submodule "plugged/nerdcommenter"]
+	path = plugged/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "plugged/nerdtree"]
+	path = plugged/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "plugged/tagbar"]
+	path = plugged/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "plugged/vim-airline"]
+	path = plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "plugged/vim-airline-themes"]
+	path = plugged/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "plugged/vim-interestingwords"]
+	path = plugged/vim-interestingwords
+	url = https://github.com/lfv89/vim-interestingwords.git
+[submodule "plugged/vim-localvimrc"]
+	path = plugged/vim-localvimrc
+	url = https://github.com/embear/vim-localvimrc.git
+[submodule "plugged/vim-startify"]
+	path = plugged/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
